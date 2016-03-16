@@ -1,0 +1,16 @@
+{
+  "name": "ttadag-v1",
+  "description": "angularjs with material",
+  "main": "index.js",
+  "authors": [
+    "yoobin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ttadag"
+  ],
+  "homepage": "https://github.com/yoobin/ttadag-button-v1",
+  "moduleType": [
+    "node"
+  ]
+}

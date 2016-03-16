@@ -1,0 +1,26 @@
+{
+  "name": "ttadag-v1",
+  "version": "1.0.0",
+  "description": "angularjs with material",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoobin/ttadag-button-v1.git"
+  },
+  "keywords": [
+    "ttadag"
+  ],
+  "author": "yoobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoobin/ttadag-button-v1/issues"
+  },
+  "homepage": "https://github.com/yoobin/ttadag-button-v1#readme",
+  "dependencies": {
+    "angular-material": "^1.0.6",
+    "express": "^4.13.4"
+  }
+}
