@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/yoobin/ttadag-button-v1#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8"
   }
 }
